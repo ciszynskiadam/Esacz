@@ -6,3 +6,5 @@ Autorska gra typu Arcade.
 
 ## Opis
 Gra pozwala dwojgu graczy na wcielenie się w postaci wojowników, których celem jest wylądować na drugim z graczy. Gracze mają do dyspozycji podwójny skok oraz atak, który powoduje bardzo szybkie spadnięcie na podłogę. W zależności od różnych czynników, zmienia się prędkość postaci graczy.
+
+Do uruchomienia niezbędny jest zainstalowany język Python oraz moduły: pygame, random.
